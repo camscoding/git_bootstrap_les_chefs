@@ -9522,6 +9522,9 @@ h3 {
 .nvb {
   border-top: solid #fff 1px;
   border-bottom: solid #fff 1px;
+}
+
+.nvb2 {
   padding-bottom: 10px;
   padding-top: 10px;
 }
@@ -9532,6 +9535,26 @@ h3 {
 
 .colm2 {
   margin-top: 14px;
+}
+
+.txtb {
+  font-family: "Courgette", cursive;
+}
+
+.dbanner {
+  margin-top: 164px;
+}
+
+.hbanner {
+  font-size: 62px;
+}
+
+.dbouton {
+  margin-top: 93px;
+}
+
+.bouton {
+  border-radius: 75px;
 }
 
 /*# sourceMappingURL=style.css.map */
