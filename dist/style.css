@@ -9610,4 +9610,17 @@ h3 {
   border-color: grey;
 }
 
+.bckchef {
+  background-color: black;
+}
+
+.rowchef {
+  padding-top: 77px;
+}
+
+.imgchef {
+  border-bottom: solid 1px;
+  border-color: grey;
+}
+
 /*# sourceMappingURL=style.css.map */
