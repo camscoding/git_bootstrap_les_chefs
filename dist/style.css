@@ -9593,7 +9593,7 @@ h3 {
 }
 
 .list-group {
-  border-bottom: solid black 1px;
+  border-bottom: solid grey 1px;
 }
 
 .brd-r {
@@ -9712,6 +9712,55 @@ h3 {
 
 .boutonknow {
   border-radius: 30px;
+}
+
+.bck-client {
+  background-image: url("../git_bootstrap_les_chefs/images/testimonials_background.jpg");
+  height: 485px;
+}
+
+.testimon {
+  padding-top: 92px;
+}
+
+.divtesti {
+  border-radius: 20px;
+  border: solid 1px white;
+}
+
+.imgtesti {
+  width: 160px;
+  border-radius: 90px;
+  border: solid 2px #cec9c9;
+}
+
+.colimg {
+  padding-left: 200px;
+}
+
+.bck-contact {
+  background-image: url("../git_bootstrap_les_chefs/images/main_bg.jpg");
+  height: 690px;
+}
+
+.titrecontact {
+  padding-top: 73px;
+  padding-bottom: 71px;
+}
+
+.bck-rouge {
+  background-color: #d24545;
+  border-radius: 30px;
+  height: 421px;
+}
+
+.iconcontact {
+  font-size: 45px;
+}
+
+.pcontact {
+  border-bottom: solid 1px;
+  border-color: #f8f9fac4;
 }
 
 /*# sourceMappingURL=style.css.map */
